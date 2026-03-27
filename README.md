@@ -11,8 +11,7 @@ A REST API built with FastAPI for managing and persisting issues to a JSON-based
 * **Documentation:** Auto-generated API documentation via Swagger UI.
 
 ## Project Structure
-
-
+```
 .
 ├── app/
 │   ├── routes/
@@ -24,7 +23,7 @@ A REST API built with FastAPI for managing and persisting issues to a JSON-based
 ├── main.py
 ├── .gitignore
 └── LICENSE
-
+```
 
 ## Installation
 
